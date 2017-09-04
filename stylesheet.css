@@ -1,0 +1,134 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height:1.5;
+  margin: 30px auto;
+  border-top: 5px solid #222;
+  border-bottom: 5px solid #222;
+  padding: 50px;
+  background: #F6F6F6;
+  width: 800px;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: #030609;
+  margin-top: 0;
+}
+
+nav {
+  color: #222;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+li {
+  font-weight: bold;
+  color: #030609;
+}
+
+.current_page {
+  font-style: italic;
+}
+
+img {
+  height: 200px;
+  float: right;
+  padding: 5px;
+  border: 1px solid #222;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #222;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin: 30px 0;
+}
+li
+{
+  display: inline;
+  list-style-type: none;
+  padding-right: 5px;
+}
+#page2
+img {
+  height: 300px;
+  float: none;
+  padding: 5px;
+  border: 1px solid #222;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+/* notes from class to Noha
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 30px auto;
+  border-top: 5px solid #222;
+  border-bottom: 5px solid #222;
+  padding: 50px;
+  background: #F6F6F6;
+  width: 800px;
+}
+Nav {
+  color: #222;
+  text-align: center;
+}
+Nav ul{
+  list-style-type: none;
+ margin: 0;
+}
+Nav li {
+  display: inline-block;
+}
+li {
+  font-weight: bold;
+  color: #030609;
+}
+img {
+  height: 200px;
+   float: right;
+   padding: 5px;
+   border: 1px solid #222;
+   margin-left: 20px;
+   margin-bottom: 20px;
+}
+h1 {
+  ttext-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: #030609;
+  margin-top: 0;
+}
+.current page {
+  font-style: italic;
+}
+.current_page.heading {
+  font-style: normal;
+}
+hr {
+  border: none;
+  border-top: 1px solid #222;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
